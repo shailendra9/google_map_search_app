@@ -1,0 +1,4 @@
+<div ng-controller="MainCtrl">
+yoyo This is MAIN.html
+	
+</div>
